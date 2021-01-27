@@ -1,0 +1,44 @@
+#timeline-wrapper {
+    height: 50px;
+}
+
+#timeline-wrapper .scale {
+    background: #ccc;
+    border: 1px solid #000;
+    display: block;
+    height: 20px;
+    overflow: hidden;
+    width: 100%;
+}
+
+#timeline-wrapper .scale div {
+    float: left;
+    height: 100%;
+}
+
+#timeline-wrapper .scale div.sched {
+    background: #74b72e;
+}
+
+#timeline-wrapper .scale div.turn {
+    background: #e39ff6;
+}
+
+#timeline-wrapper .story {
+    width: 100%;
+}
+
+#timeline-wrapper .story .marks div {
+    float: left;
+    font-size: 12px;
+    text-align: center;
+    width: 33.3%;
+}
+
+#timeline-wrapper .story .marks div:first-child {
+    text-align: left;
+}
+
+#timeline-wrapper .story .marks div:last-child {
+    text-align: right;
+}
