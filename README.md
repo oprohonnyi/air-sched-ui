@@ -24,7 +24,7 @@ Those are the high level requirements:
 
 ![image](https://user-images.githubusercontent.com/152380/51271642-fc120c80-19bf-11e9-8d08-468588aa6635.png)
 
-[https://gist.github.com/nickbnf/77dcd76a26c57fa0d005187b6808799e](Go to Full Description)
+Read full version: https://gist.github.com/nickbnf/77dcd76a26c57fa0d005187b6808799e#file-aircraft_scheduling-md
 
 ### Technical aspect
 
