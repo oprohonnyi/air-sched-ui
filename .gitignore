@@ -1,0 +1,25 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+/node_modules/
+
+# Build
+build[a-zA-Z-]*
+build/
+/dump.rdb
+/.user-npmrc
+
+# Test Coverage
+/coverage/
+/junit
+
+# Editor
+/.idea
+
+# Mac
+.DS_Store
+
+# backups
+*~
